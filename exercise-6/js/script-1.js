@@ -1,3 +1,4 @@
+alert("я оцениваю свою работу на 110 баллов")
 const body = document.querySelector('body');
 const wrapper = document.createElement('div');
 const cardItem = document.createElement("div");
